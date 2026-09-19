@@ -33,4 +33,4 @@ Kotlin'i kendi kendime ve Udemy kursları ile öğrendim. Yapay zeka araçların
 ### 📫 Bana Ulaşın
 
 - Instagram: [@emrecamkertenn](https://www.instagram.com/emrecamkertenn/)
-- LinkedIn: *(profil linkin buraya eklenecek)*
+- LinkedIn: (https://www.linkedin.com/in/emrecamkerten/)
